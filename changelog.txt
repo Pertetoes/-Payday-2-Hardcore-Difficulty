@@ -1,0 +1,7 @@
+V.3
+- Incrase spawn rate
+
+V.2.9.9
+- Increase spawn rate even more
+- Fixed spawn glitch on Alesso
+- Fixed assault glitch on Art Gallery & Framing Frame Day 1
